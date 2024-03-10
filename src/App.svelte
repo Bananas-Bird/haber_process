@@ -86,6 +86,80 @@
       catalyst and electrochemical synthesis for the production of ammonia.
     </p>
     <h2>What is a catalyst</h2>
+    <p>
+      A catalyst derived from the greek word katalύein, meaning "to dissolve",
+      it is something that speeds up the rate of reaction. It provides an
+      alternative method for the reaction to provide, giving two reactions a
+      fast and a slow way to provide. Kind of like finding a faster route to
+      return home. If the reaction takes place with the catalyst, the faster
+      route will be taken rather than the slow one. It does this by reducing the
+      activation energy for the reaction to occur. This allows more molecules to
+      undergo the reaction. A catalyst does get used up during the reaction but
+      can get poisoned, or deactivated. For example with an iron based catalyst,
+      oxygen can bind to the surface of iron and deactivate the catalyst,
+      effectively it is a log blocking a road.
+    </p>
+    <h2>First catalyst - Osmium</h2>
+    <p>
+      The first catalyst haber used was osmium. Haber found that at a
+      temperature 600c and 200 atm of pressure a yield of 18% could be made.
+      Osmium is a transition element which typically make good catalysts, this
+      is they have two valence electrons in its valence shell, this allows them
+      to give and take electrons easily, which makes them good catalysts. The
+      problem with osmium is that it is very expensive and rare. It only
+      accounts for 50 parts per trillion of earth's crust. This makes it
+      unsuitable for mass production. Osmium hasn’t been used long enough to get
+      detailed data on it.
+    </p>
+    <h2>Iron promoted</h2>
+    <p>
+      After his discovery, his process was bought by the German chemical company
+      BASF where Bosch was put in charge of scaling the process up for
+      industrial scale. This meant changing the osmium to iron. The change from
+      iron to osmium added an unexpected twist. “[It] is remarkable how … new
+      special features always come to light. Here iron, with which Ostwald had
+      first worked and which we later tested a hundred times in its pure state,
+      is now found to function when impure”, as Haber stated. Haber made use of
+      Swedish iron ore which contains aluminum and potassium impurities. Instead
+      of poisoning the catalyst it acts as a promoter, improving the efficiency.
+    </p>
+    <h2>Ruthenium</h2>
+    <p>
+      Later in the 1990s Kellog started using ruthenium based catalysts,
+      supported on an activated carbon complex. Ruthenium is a highly reactive
+      element, so the pressure can be lowered to around a third of an iron based
+      catalyst. 150-300 bars reverse 70-105 bars of pressure. Ruthenium is a
+      more expensive element than iron but most of the catalyst is carbon so the
+      cost can be brought down. Ruthenium typically makes up 2-10% of the
+      overall catalyst blend. Today Ruthenium catalysts are the second most
+      common for the haber process.
+    </p>
+    <h2>References</h2>
+    <ol class="references">
+      <li>
+        Friedrich, Bretislav. “A Brief Biography of Fritz Haber (1868-1934).”
+        Brief Bio of Fritz Haber,
+        <a href="https://www.fhi.mpg.de/70309/History_Brief_Bio_Haber.pdf"
+          >www.fhi.mpg.de/70309/History_Brief_Bio_Haber.pdf</a
+        >. Accessed 8 Mar. 2024.
+      </li>
+      <li>
+        Rosowski, Frank, et al. “Ruthenium Catalysts for Ammonia Synthesis at
+        High Pressures: Preparation, Characterization, and Power-Law Kinetics.”
+        Applied Catalysis A: General, vol. 151, no. 2, Elsevier BV, Apr. 1997,
+        pp. 443–60, <a href="https://doi.org/10.1016/s0926-860x(96)00304-3"
+          >https://doi.org/10.1016/s0926-860x(96)00304-3</a
+        >. Accessed 7 Mar. 2024.
+      </li>
+      <li>
+        Humphreys, John, et al. “Development and Recent Progress on Ammonia
+        Synthesis Catalysts for Haber–Bosch Process.” Advanced Energy and
+        Sustainability Research, vol. 2, no. 1, Wiley, Dec. 2020,
+        <a href="https://doi.org/10.1002/aesr.202000043"
+          >https://doi.org/10.1002/aesr.202000043</a
+        >. Accessed 7 Mar. 2024.
+      </li>
+    </ol>
   </div>
 </main>
 
@@ -94,5 +168,8 @@
     padding: 20px;
     max-width: 800px;
     box-sizing: border-box;
+  }
+  .references li {
+    padding: 10px;
   }
 </style>
