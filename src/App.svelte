@@ -30,6 +30,13 @@
       the German chemist Fritz Haber developed the first process for ammonia
       production on an industrial scale.
     </p>
+
+    <img
+      src="/WhatsApp-Image-2019-08-23-at-17.webp"
+      alt="A diagram of the habor process"
+      class="center"
+    />
+    <p style="font-size: small;">A diagram of the habor process</p>
     <p>The chemical equation for ammonia synthesis is as follows.</p>
     <MathMl
       tex={String.raw`N_2 + 3H_2\rightleftharpoons 2NH_3 + 92 + \text{heat}`}
@@ -158,6 +165,13 @@
         <a href="https://doi.org/10.1002/aesr.202000043"
           >https://doi.org/10.1002/aesr.202000043</a
         >. Accessed 7 Mar. 2024.
+      </li>
+      <li>
+        A diagram of the habor process, digital photograph, Science ABC,
+        accessed 25 March 2024, <a
+          href="https://www.scienceabc.com/pure-sciences/the-haber-bosch-process-what-is-it-why-is-the-process-so-important.html"
+          >https://www.scienceabc.com/pure-sciences/the-haber-bosch-process-what-is-it-why-is-the-process-so-important.html</a
+        >
       </li>
     </ol>
   </div>
